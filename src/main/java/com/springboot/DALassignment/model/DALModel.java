@@ -1,5 +1,8 @@
 package com.springboot.DALassignment.model;
 
-public class DALModel {
 
+
+public class DALModel {
+	private String id;
+	
 }
